@@ -1,0 +1,21 @@
+a {
+  font-weight: bold;
+}
+a:hover {
+  background-color: rgb(14, 131, 185);
+}
+.nav {
+  background-color: skyblue;
+  height: 40px;;
+}
+.nav-button {
+  border: 1px solid darkblue;
+  background-color: skyblue;
+  color: darkblue;
+  margin: 5px;
+  padding: 5px;
+  border-radius: 5px;
+  text-align: center;
+  
+  
+}
