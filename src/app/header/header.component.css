@@ -16,6 +16,7 @@ a:hover {
   padding: 5px;
   border-radius: 5px;
   text-align: center;
-  
-  
+  position: relative;
+  left:480px;
+  top:10px;  
 }
